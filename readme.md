@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sergio yepes</h1>
 <h3 align="center">A passionate full stack developer from colombia</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/SergioYepes/portfolio)
+- 🔭 I’m currently working on [amazon clone page](https://github.com/SergioYepes/store-theme-Amazon)
 
 - 🌱 I’m currently learning **Java, python and angular**
 
