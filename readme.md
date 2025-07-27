@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sergio yepes</h1>
 <h3 align="center">A passionate full stack developer from colombia</h3>
 
-- 🔭 I’m currently working on [amazon clone page](https://github.com/SergioYepes/Dashboard-interactive)
+- 🔭 I’m currently working on [Dashboard-interactive](https://github.com/SergioYepes/Dashboard-interactive)
 
 - 🌱 I’m currently learning **Data science**
 
