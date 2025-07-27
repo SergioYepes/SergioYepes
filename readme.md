@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm sergio yepes</h1>
 <h3 align="center">A passionate full stack developer from colombia</h3>
 
-- 🔭 I’m currently working on [amazon clone page](https://github.com/SergioYepes/store-theme-Amazon)
+- 🔭 I’m currently working on [amazon clone page](https://github.com/SergioYepes/Dashboard-interactive)
 
-- 🌱 I’m currently learning **Java, python and angular**
+- 🌱 I’m currently learning **Data science**
 
-- 👨‍💻 All of my projects are available at [sergioyepesportfolio.vercel.app](sergioyepesportfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [sergioyepesportfolio.vercel.app](sergioyepesportfolio.vercel.app) deprecated
 
 - 📝 I regularly write my articles on [https://www.linkedin.com/in/sergio-yepes-2b7158214/](https://www.linkedin.com/in/sergio-yepes-2b7158214/)
 
@@ -44,15 +44,3 @@
 <p><img align="center" src="image_2022-08-29_23-43-09.png"> </p>
 <p><img align="center" src="image_2022-08-29_23-43-18.png"> </p> 
 <p><img align="center" src="image_2022-08-29_23-43-36.png"> </p>
-
-<h3 align="left">PI countries:</h3>
-
-<p>this is an SPA using the restcountry api</p>
-<p><img align="center" src="countries1.jpg"> </p>
-<p><img align="center" src="countries2.jpg"> </p>
-
-<h3 align="left">PI Dogs:</h3>
-
-<p>this is an SPA using the DogsApi api</p>
-<p><img align="center" src="Dogs1.jpg"> </p>
-<p><img align="center" src="Dogs2.jpg"> </p>
