@@ -26,21 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergioyepes&show_icons=true&locale=en" alt="sergioyepes" /></p>
 
-<h1>Actual Proyects</h1>
-
-<h3 align="left">BookITech:</h3>
-
-<p>a great SPA app, is an tech book e-commerce</p>
-
-<p><img align="center" src="image_2022-08-29_23-21-31.png"> </p>
-<p><img align="center" src="image_2022-08-29_23-22-41.png"> </p>
-<p><img align="center" src="image_2022-08-29_23-30-28.png"> </p>
-<p><img align="center" src="image_2022-08-29_23-30-43.png"> </p>
-<p><img align="center" src="image_2022-08-29_23-31-03.png"> </p>
-<p><img align="center" src="image_2022-08-29_23-32-30.png"> </p>
-<p><img align="center" src="image_2022-08-29_23-37-33.png"> </p>
-<p><img align="center" src="image_2022-08-29_23-42-40.png"> </p>
-<p><img align="center" src="image_2022-08-29_23-42-56.png"> </p>
-<p><img align="center" src="image_2022-08-29_23-43-09.png"> </p>
-<p><img align="center" src="image_2022-08-29_23-43-18.png"> </p> 
-<p><img align="center" src="image_2022-08-29_23-43-36.png"> </p>
